@@ -54,7 +54,7 @@ O banco de dados é composto pelas seguintes tabelas principais:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/julianamaula/E-commerce-refinado.git
+   git clone https://github.com/seu-user/E-commerce-refinado.git
 
 2. Importe o ```script SQL``` para o MySQL:
   - Abra o MySQL Workbench ou um cliente MySQL.
@@ -93,9 +93,9 @@ Commit suas alterações (```git commit -m 'Adicionando nova feature'```).
 
 Push para a branch (```git push origin feature/nova-feature```).
 
-Abra um Pull Request.(```ex: https://github.com/seu-user/E-commerce-refinado```).
+Abra um Pull Request (```ex: https://github.com/seu-user/E-commerce-refinado```).
 
-
+##
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
