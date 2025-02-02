@@ -56,7 +56,7 @@ O banco de dados é composto pelas seguintes tabelas principais:
    ```bash
    git clone https://github.com/seu-user/E-commerce-refinado.git
 
-2. Importe o ```script SQL``` para o MySQL:
+2. Importe o  ```script SQL```  para o MySQL:
   - Abra o MySQL Workbench ou um cliente MySQL.
   - Execute o script.sql para criar o banco de dados e as tabelas.
 3. Configure as credenciais do banco de dados no seu ambiente.
