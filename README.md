@@ -87,16 +87,20 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 
 Faça um fork do projeto.
 
-Crie uma branch para sua feature (git checkout -b feature/nova-feature).
+Crie uma branch para sua feature (```git checkout -b feature/nova-feature```).
 
 Commit suas alterações (```git commit -m 'Adicionando nova feature'```).
 
 Push para a branch (```git push origin feature/nova-feature```).
 
-Abra um Pull Request.
+Abra um Pull Request.(```ex: https://github.com/seu-user/E-commerce-refinado```).
 
-Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+
+![GitHub Org's stars](https://img.shields.io/github/stars/julianamaula?style=social)
 
 
 
